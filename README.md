@@ -1,6 +1,7 @@
 # gym-super-mario
 #### **Gym Super Mario is an environment bundle for OpenAI Gym**
 ---
+[![Run on Repl.it](https://repl.it/badge/github/UzayAnil/gym-super-mario)](https://repl.it/github/UzayAnil/gym-super-mario)
 <div id="installation"></div>Installation
 ============
 
